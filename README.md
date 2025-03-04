@@ -1,4 +1,4 @@
-# Hi there 🤗, My name is Thao Chu!
+# Hi there 🤗, My name is Thao!
 
 ## Data Analyst/ Business Analyst
 
