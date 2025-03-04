@@ -1,12 +1,12 @@
 # Hi there 🤗, My name is Thao Chu!
 
-## Data All-rounder/ Business Analyst
+## Data Analyst/ Business Analyst
 
 ### Technical Skills
-* Programming Languages: Python, R, SQL
-* Data Analysis and Visualization tools: Advanced Excel, SAS, Tableau, PowerBI
-* Statistical Modeling: Forecasting, Regression Analysis, NLP
-* Database: MS SQL, MySQL, MongoDB
+* Programming Languages: Python, R, SQL, MySQL, HTML, CSS, React.js
+* BI Tools: PowerBI, Tableau, Alteryx, MS Excel
+* Technical skills: Data Analysis and Data Mining, Data Management, Machine Learning, Natural Language Processing, Probability
+and Statistics, Big Data (Apache Hadoop), Cloud Computing (MS Azure, AWS), Docker, Git
 
 ### About Me
 * 🎯 I’m working on expanding my opportunities in the Data Analyst / Business Analyst field.
