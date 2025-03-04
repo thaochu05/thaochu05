@@ -5,10 +5,8 @@
 ### Technical Skills
 * Programming Languages: Python, R, SQL
 * Data Analysis and Visualization tools: Advanced Excel, SAS, Tableau, PowerBI
-* Statistical Modeling: Forecasting, Regression Analysis
-* Database: PostgreSQL, Snowflake, MongoDB
-* Enterprise system: SAP CRM
-* Design and Prototyping: Figma (HCI/UX)
+* Statistical Modeling: Forecasting, Regression Analysis, NLP
+* Database: MS SQL, MySQL, MongoDB
 
 ### About Me
 * 🎯 I’m working on expanding my opportunities in the Data Analyst / Business Analyst field.
