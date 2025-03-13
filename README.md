@@ -1,3 +1,5 @@
+
+
 # Hi there 🤗, My name is Thao!
 
 ## Data Analyst/ Business Analyst
@@ -11,5 +13,6 @@ and Statistics, Big Data (Apache Hadoop), Cloud Computing (MS Azure, AWS), Docke
 ### About Me
 * 🎯 I’m working on expanding my opportunities in the Data Analyst / Business Analyst field.
 * 🎓 I hold a Bachelor of Data Science
-* 📫 How to reach me: thanhthao.chu05@gmail.com | https://www.linkedin.com/in/thaochu05/
+* 🎨 Portfolio: thaochu.framer.website
+* 📫 How to reach me: 📧 thanhthao.chu05@gmail.com | linkedin.com/in/thaochu05/
 
