@@ -14,5 +14,5 @@ and Statistics, Big Data (Apache Hadoop), Cloud Computing (MS Azure, AWS), Docke
 * 🎯 I’m working on expanding my opportunities in the Data Analyst / Business Analyst field.
 * 🎓 I hold a Bachelor of Data Science
 * 🎨 Portfolio: [A girlie data zone](https://thaochu.framer.website/)
-* 📫 How to reach me: 📧 thanhthao.chu05@gmail.com | [linkedin.com/in/thaochu05](linkedin.com/in/thaochu05/)
+* 📫 How to reach me: 📧 thanhthao.chu05@gmail.com | [linkedin.com/in/thaochu05](https://linkedin.com/in/thaochu05/)
 
