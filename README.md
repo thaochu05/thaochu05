@@ -1,6 +1,6 @@
 
 
-# Hi there 🤗, My name is Thao!
+# Hi there 🤗, I'm Thao!
 
 ## Data Analyst/ Business Analyst
 
