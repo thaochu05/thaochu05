@@ -5,9 +5,9 @@
 ## Data Analyst/ Business Analyst
 
 ### Technical Skills
-* **Programming:** Python, R, SQL, MySQL, HTML, CSS, React.js
+* **Programming:** Python, R, SQL, HTML, CSS, React.js
 * **BI Tools:** PowerBI, Tableau, Alteryx, MS Excel
-* **Data & ML:** Data Analysis, Data Mining, ML, NLP, Stats  
+* **Data & ML:** Data Analysis, Machine Learning, Predictive Modeling, Large Language Model (LLM) 
 * **Infrastructure:** Big Data (Apache Hadoop), Cloud Computing (MS Azure, AWS), Docker, Git
 
 
