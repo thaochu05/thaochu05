@@ -6,8 +6,8 @@
 
 ### Technical Skills
 * **Programming:** Python, R, SQL, HTML, CSS, React.js
-* **BI Tools:** PowerBI, Tableau, Alteryx, MS Excel
-* **Data & ML:** Data Analysis, Machine Learning, Predictive Modeling, Large Language Model (LLM) 
+* **BI Tools:** PowerBI, Tableau, Alteryx, MS Excel, Salesforce 
+* **Data & AI:** Data Analysis, Machine Learning, Predictive Modeling, Large Language Model (LLM) 
 * **Infrastructure:** Big Data (Apache Hadoop), Cloud Computing (MS Azure, AWS), Docker, Git
 
 
